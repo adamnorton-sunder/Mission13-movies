@@ -1,0 +1,29 @@
+.Navbar {
+    background-color: #1c1b1a;
+    color: #ffffff;
+    display: grid;
+    grid-template-columns: auto auto auto 1fr auto;
+    padding: 0px 50px;
+}
+
+h3 {
+    margin: 0;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.centerElement {
+    display: grid;
+    place-items: center;
+    padding: 15px;
+}
+
+.titleWrapper {
+    background-color: #dd9c1a;
+    color: #1c1b1a;
+    padding: 8px;
+    border-radius: 10px;
+}
